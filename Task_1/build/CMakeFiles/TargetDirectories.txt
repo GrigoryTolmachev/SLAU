@@ -1,3 +1,4 @@
 /home/grigory/SLAU/Task_1/build/CMakeFiles/TestName.dir
+/home/grigory/SLAU/Task_1/build/CMakeFiles/main.dir
 /home/grigory/SLAU/Task_1/build/CMakeFiles/edit_cache.dir
 /home/grigory/SLAU/Task_1/build/CMakeFiles/rebuild_cache.dir

@@ -8,6 +8,7 @@ std::vector<float> p;
 std::vector<float> q;
 std::vector<float> x;
 int main(){
+	std::cout<<"Enter the order of the matrix n"<<std::endl;
 	int n;
 	std::cin>>n;
 	for (int i=0;i<n-1;++i){
@@ -62,7 +63,7 @@ int main(){
 				        g++;
 	}
 	if (g==n)
-		    std::cout<<"Test successed";
+		    std::cout<<"Test successed"<<std::endl;
 	else
-		    std::cout<<"Test failed";
+		    std::cout<<"Test failed"<<std::endl;
 }
