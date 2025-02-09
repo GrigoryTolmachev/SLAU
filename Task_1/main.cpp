@@ -8,23 +8,26 @@ std::vector<float> p;
 std::vector<float> q;
 std::vector<float> x;
 int main(){
+	std::cout<<"Enter the order of the matrix n"<<std::endl;
 	int n;
 	std::cin>>n;
 	float g;
+	std::cout<<"Enter vestor a"<<std::endl;
 	for (int i=0;i<n-1;++i){
 		    std::cin>>g;
 		        a.push_back(g);
 			    }
-
+	std::cout<<"Enter vestor b"<<std::endl;
 	for (int i=0;i<n;++i){
 		    std::cin>>g;
 		        b.push_back(g);
 			    }
+	std::cout<<"Enter vestor c"<<std::endl;
 	for (int i=0;i<n-1;++i){
 		    std::cin>>g;
 		        c.push_back(g);
 			    }
-
+	std::cout<<"Enter vestor d"<<std::endl;
 	for (int i=0;i<n;++i){
 		    std::cin>>g;
 		        d.push_back(g);
